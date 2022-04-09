@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implicit Intent Example</string>
+    <string name="browser">Browser</string>
+    <string name="map">Map</string>
+    <string name="call">Call</string>
+    <string name="text">Text</string>
+    <string name="do_action">Do action</string>
+</resources>
